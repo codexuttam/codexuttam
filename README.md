@@ -13,6 +13,7 @@
 - ⚡ Fun fact: *I break stuff just to fix it better!*
 
 ---
+![Uploading githubgif.gif…]()
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
