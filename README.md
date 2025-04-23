@@ -13,7 +13,7 @@
 - ⚡ Fun fact: *I break stuff just to fix it better!*
 
 ---
-![Uploading githubgif.gif…]()
+
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
@@ -41,6 +41,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
+</p>
+<p align="center">
+  <img src="https://github.com/codexuttam/codexuttam/blob/main/githubgif.gif" alt="Dev at work" width="600"/>
 </p>
 
 
