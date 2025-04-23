@@ -24,6 +24,7 @@
 </p>
 
 ---
+![githubgif gif](https://github.com/user-attachments/assets/b2508f88-d3a0-4557-b474-a93dd8a50847)
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
