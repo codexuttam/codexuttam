@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi there 👋, I'm Uttamraj Singh</h1>
-<h3 align="center">A passionate CSE undergrad exploring AI/ML & Web Dev 🚀</h3>
+<h3 align="center">A passionate CSE undergrad exploring AI/ML, Web Dev & Defense Tech 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Waving Hand gif"/>
@@ -10,7 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=codexuttam&label=Profile%20views&color=0e75b6&style=flat" alt="codexuttam" />
 </p>
 
+
 ---
+
+<table>
+<tr>
+<td>
 
 ### 📫 Connect with me:
 <p align="left">
@@ -30,12 +35,26 @@
 
 ---
 
+### 👨‍💻 About Me:
+- 🚀 Currently learning **DSA**, **MERN stack**, and **AI/ML**.
+- 🛡️ Passionate about **defense tech** and **leadership**!
+
+</td>
+<td align="center">
+  ![githubgif gif](https://github.com/user-attachments/assets/feb8cd62-6af0-4326-8d88-d455fe1791ba)
+
+<img src="https://github.com/codexuttam/codexuttam/blob/main/githubgif.gif" alt="Working gif" width="300px"/>
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Languages and Tools:
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
