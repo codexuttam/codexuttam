@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi there 👋, I'm Uttamraj Singh</h1>
-<h3 align="center">A passionate CSE undergrad exploring AI/ML, Web Dev. 🚀</h3>
+<h3 align="center">A passionate CSE undergrad exploring AI/ML & Web Dev 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Waving Hand gif"/>
@@ -10,23 +10,21 @@
   <img src="https://komarev.com/ghpvc/?username=codexuttam&label=Profile%20views&color=0e75b6&style=flat" alt="codexuttam" />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack and Machine Learning**
-- 💬 Ask me about **Python , Web Development, MERN Stack**
-- ⚡ Fun fact: I love writing, music, and Indian defense.
+---
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/contactuttamraj" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" />
+  <a href="https://www.linkedin.com/in/contactuttamraj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://dev.to/codexuttam" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="dev.to" height="20" width="20" />
+  <a href="https://dev.to/codexuttam" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  <a href="https://bento.me/uttamrajsingh" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bento.svg" alt="bento" height="20" width="20" />
+  <a href="https://bento.me/uttamrajsingh" target="_blank">
+    <img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white" alt="Bento Badge"/>
   </a>
-  <a href="https://x.com/maiuttamhoon" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="20" width="20" />
+  <a href="https://x.com/maiuttamhoon" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge"/>
   </a>
 </p>
 
@@ -34,36 +32,37 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 Python Libraries I Work With:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codexuttam&show_icons=true&locale=en" alt="codexuttam" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexuttam" alt="codexuttam" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codexuttam&show_icons=true&theme=react" alt="codexuttam" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexuttam&theme=react" alt="codexuttam" />
 </p>
 
 ---
 
 ### 💡 Quote of the Day:
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston Churchill
+
