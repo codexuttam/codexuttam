@@ -41,7 +41,7 @@
 
 </td>
 <td align="center">
-[githubgif gif](https://github.com/user-attachments/assets/feb8cd62-6af0-4326-8d88-d455fe1791ba)
+<img src="https://github.com/codexuttam/codexuttam/blob/main/githubgif.gif?raw=true" width="300px" />
 
 
 </td>
