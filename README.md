@@ -37,11 +37,11 @@
 
 ### 👨‍💻 About Me:
 - 🚀 Currently learning **DSA**, **MERN stack**, and **AI/ML**.
-- 🛡️ Passionate about **defense tech** and **leadership**!
+- 🛡️ Passionate about **tech** and **leadership**!
 
 </td>
 <td align="center">
-  ![githubgif gif](https://github.com/user-attachments/assets/feb8cd62-6af0-4326-8d88-d455fe1791ba)
+[githubgif gif](https://github.com/user-attachments/assets/feb8cd62-6af0-4326-8d88-d455fe1791ba)
 
 
 </td>
