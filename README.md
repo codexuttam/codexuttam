@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, C++, and DSA**
 - 💬 Ask me about **Python, Web Dev, and Hackathon Ideas**
-- ⚡ Fun fact: I love writing, music, and Indian defense aircraft ✈️🇮🇳
+- ⚡ Fun fact: I love writing, music, and Indian defense.
 
 ### 📫 Connect with me:
 <p align="left">
