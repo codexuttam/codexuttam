@@ -31,9 +31,9 @@ location: Delhi, India
 pronouns: he/him
 
 currently:
-  - Mastering MAchine Learning & Competitive Programming
+  - Mastering DSA & Competitive Programming
   - Building with MERN + Next.js
-  - Exploring AI & New Tech
+  - Exploring AI/ML & Deep Learning
   - Researching Defense Tech
 
 passion: tech + leadership + impact
@@ -151,9 +151,9 @@ fun_fact: "something i wanna build which
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codexuttam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codexuttam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexuttam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexuttam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
 
 </div>
 
@@ -175,7 +175,7 @@ fun_fact: "something i wanna build which
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codexuttam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codexuttam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
 
 </div>
 
@@ -187,20 +187,21 @@ fun_fact: "something i wanna build which
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#1e3a5f',
-    'primaryTextColor': '#ffffff',
+    'primaryColor': '#A8D8EA',
+    'primaryTextColor': '#0d1117',
     'primaryBorderColor': '#58A6FF',
     'lineColor': '#58A6FF',
-    'secondaryColor': '#2d1b69',
-    'secondaryTextColor': '#ffffff',
+    'secondaryColor': '#C9B1FF',
+    'secondaryTextColor': '#0d1117',
     'secondaryBorderColor': '#9B59B6',
-    'tertiaryColor': '#1a3d2f',
-    'tertiaryTextColor': '#ffffff',
+    'tertiaryColor': '#B5EAD7',
+    'tertiaryTextColor': '#0d1117',
     'tertiaryBorderColor': '#2ecc71',
-    'background': '#0d1117',
-    'edgeLabelBackground': '#0d1117',
-    'titleColor': '#58A6FF',
-    'fontFamily': 'monospace'
+    'background': '#ffffff',
+    'edgeLabelBackground': '#f0f0f0',
+    'titleColor': '#0d1117',
+    'fontFamily': 'monospace',
+    'fontSize': '14px'
   }
 }}%%
 mindmap
