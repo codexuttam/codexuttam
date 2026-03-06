@@ -31,9 +31,9 @@ location: Delhi, India
 pronouns: he/him
 
 currently:
-  - Mastering DSA & Competitive Programming
+  - Mastering MAchine Learning & Competitive Programming
   - Building with MERN + Next.js
-  - Exploring AI/ML & Deep Learning
+  - Exploring AI & New Tech
   - Researching Defense Tech
 
 passion: tech + leadership + impact
@@ -124,7 +124,6 @@ fun_fact: "something i wanna build which
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 </details>
