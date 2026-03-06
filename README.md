@@ -198,8 +198,8 @@ fun_fact: "something i wanna build which
     'tertiaryColor': '#1a3d2f',
     'tertiaryTextColor': '#ffffff',
     'tertiaryBorderColor': '#2ecc71',
-    'background': '#0d1117',
-    'edgeLabelBackground': '#0d1117',
+    'background': '#7cd7eeff',
+    'edgeLabelBackground': '#7cd7eeff',
     'titleColor': '#58A6FF',
     'fontFamily': 'monospace'
   }
