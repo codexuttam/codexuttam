@@ -192,7 +192,7 @@ fun_fact: "something i wanna build which
     'primaryTextColor': '#ffffff',
     'primaryBorderColor': '#58A6FF',
     'lineColor': '#58A6FF',
-    'secondaryColor': '#2d1b69',
+    'secondaryColor': '#7cd7eeff',
     'secondaryTextColor': '#ffffff',
     'secondaryBorderColor': '#9B59B6',
     'tertiaryColor': '#1a3d2f',
