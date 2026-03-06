@@ -195,7 +195,7 @@ fun_fact: "something i wanna build which
     'secondaryColor': '#7cd7eeff',
     'secondaryTextColor': '#ffffff',
     'secondaryBorderColor': '#9B59B6',
-    'tertiaryColor': '#1a3d2f',
+    'tertiaryColor': '#7cd7eeff',
     'tertiaryTextColor': '#ffffff',
     'tertiaryBorderColor': '#2ecc71',
     'background': '#7cd7eeff',
