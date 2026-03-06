@@ -152,9 +152,9 @@ fun_fact: "something i wanna build which
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codexuttam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codexuttam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexuttam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codexuttam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 
 </div>
 
@@ -176,7 +176,7 @@ fun_fact: "something i wanna build which
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codexuttam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&row=1" width="100%"/>
+<img src="https://gh-profile-trophy.vercel.app/?username=codexuttam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&row=1" width="100%"/>
 
 </div>
 
@@ -188,7 +188,7 @@ fun_fact: "something i wanna build which
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#1e3a5f',
+    'primaryColor': '#7cd7eeff',
     'primaryTextColor': '#ffffff',
     'primaryBorderColor': '#58A6FF',
     'lineColor': '#58A6FF',
