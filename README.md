@@ -180,11 +180,9 @@ fun_fact: "something i wanna build which
 
 </div>
 
----
-
 ## 🎯 Current Focus
 
-
+```mermaid
 graph TD
 
 A[Uttamraj]
@@ -209,9 +207,7 @@ D --> D3[System Design]
 E --> E1[Research]
 E --> E2[Innovation]
 E --> E3[MATLAB]
-
----
-
+```
 ## 📈 Contribution Summary
 
 <div align="center">
