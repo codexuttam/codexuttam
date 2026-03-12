@@ -184,49 +184,31 @@ fun_fact: "something i wanna build which
 
 ## 🎯 Current Focus
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#7cd7eeff',
-    'primaryTextColor': '#ffffff',
-    'primaryBorderColor': '#58A6FF',
-    'lineColor': '#58A6FF',
-    'secondaryColor': '#7cd7eeff',
-    'secondaryTextColor': '#ffffff',
-    'secondaryBorderColor': '#9B59B6',
-    'tertiaryColor': '#7cd7eeff',
-    'tertiaryTextColor': '#ffffff',
-    'tertiaryBorderColor': '#2ecc71',
-    'background': '#7cd7eeff',
-    'edgeLabelBackground': '#7cd7eeff',
-    'titleColor': '#58A6FF',
-    'fontFamily': 'monospace'
-  }
-}}%%
-mindmap
-  root((Uttamraj))
-    AI and ML
-      Deep Learning
-      Computer Vision
-      NLP
-      Matplotlib and Bokeh
-    Web Dev
-      MERN Stack
-      Next.js and TypeScript
-      REST APIs
-      Open Source
-    CS Fundamentals
-      DSA and Algorithms
-      OOP Principles
-      System Design
-      Docker and DevOps
-    Defense Tech
-      Research
-      Innovation
-      MATLAB Simulations
-      PostgreSQL Databases
-```
+
+graph TD
+
+A[Uttamraj]
+
+A --> B[AI & ML]
+A --> C[Web Development]
+A --> D[CS Fundamentals]
+A --> E[Defense Tech]
+
+B --> B1[Deep Learning]
+B --> B2[Computer Vision]
+B --> B3[NLP]
+
+C --> C1[MERN Stack]
+C --> C2[Next.js + TypeScript]
+C --> C3[REST APIs]
+
+D --> D1[DSA]
+D --> D2[OOP]
+D --> D3[System Design]
+
+E --> E1[Research]
+E --> E2[Innovation]
+E --> E3[MATLAB]
 
 ---
 
