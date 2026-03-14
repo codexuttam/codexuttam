@@ -160,7 +160,7 @@ fun_fact: "something i wanna build which
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=codexuttam&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=codexuttam&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" width="70%"/>
 
 </div>
 
