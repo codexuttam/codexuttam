@@ -31,7 +31,7 @@ Building with code, thinking in systems, exploring where AI meets defense tech.
 
 ## About
 
-I'm currently deep in three things at once: sharpening my DSA fundamentals, shipping full-stack projects with the MERN + Next.js stack, and studying AI/ML — with a longer-term curiosity pulling me toward **defense technology** and where machine intelligence, systems design, and national infrastructure intersect.
+I'm currently deep diving  in three things at once: sharpening my DSA fundamentals, shipping full-stack projects with the MERN + Next.js stack, and studying AI/ML — with a longer-term curiosity pulling me toward **defense technology** and where machine intelligence, systems design, and national infrastructure intersect.
 
 I care more about understanding *why* something works than just getting it to run. That shows up in how I build — fewer shortcuts, more first principles.
 
