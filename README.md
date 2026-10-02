@@ -93,7 +93,7 @@ I care more about understanding *why* something works than just getting it to ru
 
 ## 📬 Get in touch
 
-I'm always up for a conversation about AI/ML, systems, or anything defense-tech related. Reach out on [LinkedIn](https://www.linkedin.com/in/contactuttamraj) or drop me an [email](mailto:uttamrajsingh423@gmail.com).
+I'm always up for a conversation about AI/ML, systems, or anything that fuels my pace. Reach out on [LinkedIn](https://www.linkedin.com/in/contactuttamraj) or drop me an [email](mailto:uttamrajsingh423@gmail.com). 
 
 <br>
 
